@@ -10,9 +10,7 @@ El reto consiste en replicar el sitio de **Trello**, según una secuencia de ver
 a lograr:
 
 
-![Sin titulo](docs/trello.jpg)
-
-
+![Sin titulo](docs/trello.JPG)
 
 ## Versiones Solicitadas
 ---
