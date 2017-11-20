@@ -155,6 +155,34 @@ main {
   background-color: rgba(0,0,0,.3);
 }
 
+.box-list {
+  padding: 4%;
+  display: inline-block;
+}
+
+form {
+  background-color: #e2e4e6;
+  padding: 4%;
+}
+
+input {
+  background-color: #d7d8da;
+  margin: 2%;
+  border: solid 1.5px #d3d3d3;
+  padding: 4%;
+  width: 90%;
+}
+
+button {
+  background-color: #5aac44;
+  padding: 5% 6% 5%;
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  margin: 2%;
+  border-radius: 7%;
+}
+
 .container div p {
   background-color: #e2e4e6;
   margin: 0.5%;

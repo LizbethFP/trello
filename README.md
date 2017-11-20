@@ -46,20 +46,11 @@ Este proyecto contiene:
 
 1. Un archivo `index.html` que contiene la estructura inicial de la página web. Este debe contener las siguientes secciones:
 
-  * Un encabezado de color oscuro y  que contiene dos cajas de izquierda a derecha de color contrastante. La primera contiene el ícono de Trello y la palabra "tablero" y la segunda es una barra de búsqueda con un ícono de búsqueda en la parte derecha. Luego, se encuentra situado en el centro el ícono y nombre de Trello. En la parte derecha, se encuentra cuatro opciones que llevan a enlaces diferentes.
+  * Un encabezado de color morado oscuro y  que contiene dos cajas de izquierda a derecha de color contrastante. La primera contiene el ícono de Trello y la palabra "tablero" y la segunda es una barra de búsqueda con un ícono de búsqueda en la parte derecha. Luego, se encuentra situado en el centro el ícono y nombre de Trello. En la parte derecha, se encuentra cuatro opciones que llevan a enlaces diferentes. Todos los elementos en el encabezado tienen la característica de cambiar de color de fondo al pasar el mouse por encima, además de demostrar un cursor diferente.
 
+  * Una sección de fondo morado más claro que contiene un tres cajas en la parte izquierda. En la primera, se encuentra, a modo de subtítulo, "Proyecto 1-1". En la segunda, se encuentra el ícono de una estrella. En la tercera, se encuentra el ícono de un candado y la palabra "privado". Asimismo, se ubica una caja en la parte derecha que contiene dos enlaces que redireccionan a otras áreas y que se representan con un ícoco de puntos suspensivos y un enlace a "Mostrar menú".
 
-  que contiene una línea de texto con un enlace en la parte izquierda y una lista de líneas de textos con enlaces en la parte derecha. Este último elemento posse la característica de que los textos cambien de color al pasarse el mouse por encima, además de demostrar un cursor diferente.
-
-  * Una primera sección de fondo verde aguamarina que contiene una imagen centrada, un título en mayúscula centrado, unos íconos centrados que crean una línea gorizontal y una estrella en el medio, y una línea de texto. Todos los elementos de texto y los íconos son de color blanco.
-
-  * Una segunda sección de fondo blanco que contiene un título en mayúscula centrado y unos íconos centrados que crean una línea gorizontal y una estrella en el medio. Estos dos elementos son de color oscuro. Además, contiene una cuadrilla centrada de imágenes.  
-
-  * Una tercera sección de fondo verde aguamarina que contiene un título en mayúscula centrado, unos íconos centrados que crean una línea gorizontal y una estrella en el medio, y una línea de texto. Luego, se encuentra dos párrafos en columnas centradas.  Los elementos de texto y los íconos son de color blanco. Finalmente, hay un botón que tiene un ícono en la parte izquierda y un enlace con un texto en la parte derecha. Estos dos últimos elementos son de color blanco y cuentan con la característica de cambiar de color al pasarse el mouse por encima, además de que su fondo también cambie de color y demostrar un cursor diferente.
-
-  * Una cuarta sección de fondo blanco que contiene un título en mayúscula centrado y unos íconos centrados que crean una línea gorizontal y una estrella en el medio. Estos dos elementos son de color oscuro. Además, contiene un formulario para ingresar datos personales y un botón en la parte inferior. El contenido textual de dicho formulario cuenta con un color gris, mientras que el contenido textual del botón es de color blanco. Además, dicho botón tiene un fondo verde aguamarina.
-
-  * Un pie de página de fondo oscuro que contiene tres columnas que cuentan con título en mayúscula centrado, dos líneas de texto, una lista de íconos con la característica de cambiar de color al pasarse el mouse por encima y tener un cursor diferente, y un párrafo con un enlace de color verde aguamarina que demuestra un cursor diferente al pasarse el mouse, respectivamente. Asimismo, cuenta con una línea de texto en la base. Todos los íconos y el contenido textual de esta sección son de color blanco.
+  * Una sección contenedora de una caja que indica "Añadir una lista", la que hará que se creen listas que se irán reubicando a la izquierda, cada vez que se presione el botón "Guardar".
 
 2. Una carpeta `assets` donde se encuentra la carpeta `images` con la imagen del logo de Trello en formato ***png***, y la carpeta `icons` con la carpeta `icomoon`, que a su vez contiene a la carpeta `fonts` con los íconos y una hoja de estilos llamada `style`.
 
